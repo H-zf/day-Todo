@@ -7,7 +7,7 @@
 ###### 	&nbsp; "prefix": "created",
 ###### 	&nbsp; "body": [
 ###### 	&nbsp;&nbsp;			"created() {",
-###### 	&nbsp;nbsp;			"",
+###### 	&nbsp;&nbsp;			"",
 ###### 	&nbsp;&nbsp;			"}"
 ###### 	&nbsp;&nbsp;	]
 ###### 	&nbsp;&nbsp; }
